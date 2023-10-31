@@ -1,2 +1,2 @@
 # firstDemo
-Learning Git
+Learning Git Bit by Bit
